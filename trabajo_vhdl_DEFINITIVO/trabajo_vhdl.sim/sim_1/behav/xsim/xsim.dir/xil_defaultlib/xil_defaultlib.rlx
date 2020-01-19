@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sim_1/new/Comp_display_tb.vhd,1575993704,vhdl,,,,display_tb,,,,,,,,
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/C_clk.vhd,1576505304,vhdl,C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/Comp_display.vhd,,,divisor_reloj,,,,,,,,
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/C_clk_dis_state.vhd,1576506184,vhdl,C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/Comp_display.vhd,,,clk_dis_state,,,,,,,,
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/C_decodificador_2a4.vhd,1576505982,vhdl,C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/Comp_display.vhd,,,decodificador_2a4,,,,,,,,
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/C_multiplexor_4a1.vhd,1575991960,vhdl,C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/Comp_display.vhd,,,multiplexor_4a1,,,,,,,,
+C:/Users/maria/Desktop/trabajo_vhdl_DEFINITIVO - copia/trabajo_vhdl.srcs/sources_1/new/Comp_display.vhd,1575991864,vhdl,,,,display,,,,,,,,
