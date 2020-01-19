@@ -1,0 +1,7 @@
+Running: xsim.dir/cafetera_tb_behav/xsimk.exe -simmode gui -wdb cafetera_tb_behav.wdb -simrunnum 0 -socket 53468
+Design successfully loaded
+Design Loading Memory Usage: 5032 KB (Peak: 5032 KB)
+Design Loading CPU Usage: 62 ms
+Simulation completed
+Simulation Memory Usage: 5632 KB (Peak: 5632 KB)
+Simulation CPU Usage: 109 ms
