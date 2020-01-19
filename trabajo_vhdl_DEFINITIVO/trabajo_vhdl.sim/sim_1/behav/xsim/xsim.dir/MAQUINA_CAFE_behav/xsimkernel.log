@@ -1,0 +1,7 @@
+Running: xsim.dir/MAQUINA_CAFE_behav/xsimk.exe -simmode gui -wdb MAQUINA_CAFE_behav.wdb -simrunnum 0 -socket 49923
+Design successfully loaded
+Design Loading Memory Usage: 5024 KB (Peak: 5024 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 5744 KB (Peak: 5744 KB)
+Simulation CPU Usage: 46 ms
