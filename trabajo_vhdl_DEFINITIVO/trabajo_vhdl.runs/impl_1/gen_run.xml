@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1577962292">
+  <File Type="BITSTR-BMM" Name="MAQUINA_CAFE_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="MAQUINA_CAFE_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="MAQUINA_CAFE_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="MAQUINA_CAFE_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="MAQUINA_CAFE.tcl"/>
+  <File Type="OPT-TIMING" Name="MAQUINA_CAFE_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="MAQUINA_CAFE_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="MAQUINA_CAFE_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="MAQUINA_CAFE_reports.tcl"/>
+  <File Type="OPT-DRC" Name="MAQUINA_CAFE_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="MAQUINA_CAFE.hwdef"/>
+  <File Type="PWROPT-DCP" Name="MAQUINA_CAFE_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="MAQUINA_CAFE_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="MAQUINA_CAFE_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="MAQUINA_CAFE_placed.dcp"/>
+  <File Type="PLACE-IO" Name="MAQUINA_CAFE_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="MAQUINA_CAFE_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="MAQUINA_CAFE_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="MAQUINA_CAFE_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="MAQUINA_CAFE_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="MAQUINA_CAFE_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="MAQUINA_CAFE_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="MAQUINA_CAFE.bgn"/>
+  <File Type="PLACE-TIMING" Name="MAQUINA_CAFE_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="MAQUINA_CAFE_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="MAQUINA_CAFE.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="MAQUINA_CAFE_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="MAQUINA_CAFE_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="MAQUINA_CAFE_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="MAQUINA_CAFE.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="MAQUINA_CAFE_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="MAQUINA_CAFE_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="MAQUINA_CAFE_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="MAQUINA_CAFE_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="MAQUINA_CAFE_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="MAQUINA_CAFE_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="MAQUINA_CAFE.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="MAQUINA_CAFE_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="MAQUINA_CAFE.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="MAQUINA_CAFE_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="MAQUINA_CAFE_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="MAQUINA_CAFE.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="MAQUINA_CAFE_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="MAQUINA_CAFE_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="MAQUINA_CAFE_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="MAQUINA_CAFE_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="MAQUINA_CAFE_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="MAQUINA_CAFE_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="MAQUINA_CAFE_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="MAQUINA_CAFE_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="MAQUINA_CAFE_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="MAQUINA_CAFE_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="MAQUINA_CAFE_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="MAQUINA_CAFE_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="MAQUINA_CAFE_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="MAQUINA_CAFE_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="MAQUINA_CAFE_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="MAQUINA_CAFE_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="MAQUINA_CAFE_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="MAQUINA_CAFE_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="MAQUINA_CAFE_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="MAQUINA_CAFE.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="MAQUINA_CAFE_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="MAQUINA_CAFE.rbt"/>
+  <File Type="BITSTR-NKY" Name="MAQUINA_CAFE.nky"/>
+  <File Type="BG-DRC" Name="MAQUINA_CAFE.drc"/>
+  <File Type="RDI-RDI" Name="MAQUINA_CAFE.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/C_antirrebote.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/C_clk.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/C_clk_dis_state.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/C_decodificador_2a4.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/C_flanco.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/C_multiplexor_4a1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Comp_Estados_cafetera.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Comp_display.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Comp_filtro.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MAQUINA_CAFE.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="MAQUINA_CAFE"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Constraints/Nexys-4-DDR-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
