@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../trabajo_vhdl.srcs/sources_1/new/C_antirrebote.vhd" \
+"../../../../trabajo_vhdl.srcs/sources_1/new/C_clk.vhd" \
+"../../../../trabajo_vhdl.srcs/sources_1/new/C_flanco.vhd" \
+"../../../../trabajo_vhdl.srcs/sources_1/new/Comp_filtro.vhd" \
+"../../../../trabajo_vhdl.srcs/sources_1/new/MAQUINA_CAFE.vhd" \
+
+# Do not sort compile order
+nosort
