@@ -1,0 +1,1 @@
+-wto "e33450d233b742029fbaeed272b20b36" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "MAQUINA_CAFE_behav" "xil_defaultlib.MAQUINA_CAFE" -log "elaborate.log" 
